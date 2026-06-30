@@ -1,0 +1,48 @@
+Dear Students 
+Today, as part of competitive coding, we have discussed the following coding problems based on two pointer algorithm 
+1. Two sum with zero with unsorted data( verify whether pair exists or not)-3 methods
+ Using brute force
+Using sorting and two pointer 
+Using hashing
+
+2. Two sum with zero with unsorted data( verify whether pair exists or not)-3 methods
+ Using brute force
+Using sorting and two pointer 
+Using hashing
+3. Two sum with zero with unsorted data( return pair if exists or otherwise return -1,-1)-3 methods
+ Using brute force
+Using sorting and two pointer 
+Using hashing
+
+3.Two sum with zero with unsorted data( return indices of pair if exists or otherwise return -1,-1)-3 methods
+ Using brute force
+Using sorting and two pointer 
+Using hashing
+4.Two sum with zero with sorted data( verify whether pair exists or not)-3 methods
+ Using brute force
+Using sorting and two pointer 
+Using hashing
+
+5. Two sum with zero with sorted data( return pair exists or otherwise return -1,-1)-3 methods
+ Using brute force
+Using sorting and two pointer 
+Using hashing
+6. Two sum with zero with sorted data( return indices of pair if exists or otherwise return -1,-1)-3 methods
+ Using brute force
+Using sorting and two pointer 
+Using hashing
+
+7. Merge two sorted arrays -2 methods
+Using Merge and sort
+Using two pointer
+8. Merge two sorted arrays into single sorted array and after merge copy first n elements into first array and next n Elements into second array-2 methods
+Using Merge and sort
+Using two pointer
+
+9. Sort square elements into sorted array-2 methods
+Using brute force 
+Using two pointer 
+10. Reverse only letters
+Using two pointer
+11. Move zeros to end
+Using two pointer
